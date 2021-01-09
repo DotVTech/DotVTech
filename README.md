@@ -3,7 +3,7 @@
 - :seedling: I'm currently building my [open source portfolio](https://github.com/DotVTech/DotVTech.github.io).
 - :zap: Fun fact: I began using computers at the age of 5.
 
----
+---s
 
 ### View my latest projects
 #### [The Stars - *Restaurant Website*][the-stars]
